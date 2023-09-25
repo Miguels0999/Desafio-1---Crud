@@ -1,0 +1,40 @@
+.Grupo {
+width: 400px;
+    height: auto;
+    margin: auto;
+    padding: 30px;
+    
+}
+.d-grid {
+    width: 300px;
+    margin: auto;
+    
+}
+
+
+.container{
+    font-style: italic;
+    font-weight: bold;
+    
+   
+   
+    
+}
+.text-center{
+    text-shadow: 5px 5px 4px rgb(99, 95, 95);
+    /* color: #2269b4; */
+    font-style: italic;
+    font-weight: bold;
+}
+
+body {
+    background-image: url('./imagem/fundo-preto-com-nuvens-azuis.jpg'); 
+    background-size: cover; 
+    background-position: center 10%; 
+    background-repeat: no-repeat; 
+  }
+  
+ 
+  
+
+

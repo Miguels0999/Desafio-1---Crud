@@ -1,0 +1,14 @@
+table.table>thead>tr th {
+    background-color: #eeeeee5e;
+}
+button.btn{
+    min-width: 80px;
+} 
+body {
+    background-image: url('./imagem/5040007.jpg'); 
+    background-size: cover; 
+    background-position: center 10%; 
+    background-repeat: no-repeat; 
+  }
+
+  
